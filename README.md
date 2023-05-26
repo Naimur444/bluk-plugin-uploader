@@ -36,4 +36,4 @@ This plugin is released under the [MIT License](https://opensource.org/licenses/
 
 ## Credits
 
-Bulk Plugin Uploader is developed and maintained by Naimur Rahman
+Bulk Plugin Uploader is developed and maintained by [Naimur Rahman](https://facebook.com/naimur444).
